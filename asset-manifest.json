@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lance-arena.github.io/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/lance-arena.github.io/static/js/main.dd2adc10.chunk.js",
-    "main.js.map": "/lance-arena.github.io/static/js/main.dd2adc10.chunk.js.map",
-    "runtime-main.js": "/lance-arena.github.io/static/js/runtime-main.0b6fe9bc.js",
-    "runtime-main.js.map": "/lance-arena.github.io/static/js/runtime-main.0b6fe9bc.js.map",
-    "static/js/2.fe3e3785.chunk.js": "/lance-arena.github.io/static/js/2.fe3e3785.chunk.js",
-    "static/js/2.fe3e3785.chunk.js.map": "/lance-arena.github.io/static/js/2.fe3e3785.chunk.js.map",
-    "static/js/3.ed170c14.chunk.js": "/lance-arena.github.io/static/js/3.ed170c14.chunk.js",
-    "static/js/3.ed170c14.chunk.js.map": "/lance-arena.github.io/static/js/3.ed170c14.chunk.js.map",
+    "main.css": "/lance-arena.github.io/static/css/main.b37562ea.chunk.css",
+    "main.js": "/lance-arena.github.io/static/js/main.53e804f2.chunk.js",
+    "main.js.map": "/lance-arena.github.io/static/js/main.53e804f2.chunk.js.map",
+    "runtime-main.js": "/lance-arena.github.io/static/js/runtime-main.db0022d8.js",
+    "runtime-main.js.map": "/lance-arena.github.io/static/js/runtime-main.db0022d8.js.map",
+    "static/css/2.150d169a.chunk.css": "/lance-arena.github.io/static/css/2.150d169a.chunk.css",
+    "static/js/2.3ed9cb09.chunk.js": "/lance-arena.github.io/static/js/2.3ed9cb09.chunk.js",
+    "static/js/2.3ed9cb09.chunk.js.map": "/lance-arena.github.io/static/js/2.3ed9cb09.chunk.js.map",
     "index.html": "/lance-arena.github.io/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/lance-arena.github.io/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.fe3e3785.chunk.js.LICENSE.txt": "/lance-arena.github.io/static/js/2.fe3e3785.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/lance-arena.github.io/static/media/logo.6ce24c58.svg"
+    "static/css/2.150d169a.chunk.css.map": "/lance-arena.github.io/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b37562ea.chunk.css.map": "/lance-arena.github.io/static/css/main.b37562ea.chunk.css.map",
+    "static/js/2.3ed9cb09.chunk.js.LICENSE.txt": "/lance-arena.github.io/static/js/2.3ed9cb09.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b6fe9bc.js",
-    "static/js/2.fe3e3785.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.dd2adc10.chunk.js"
+    "static/js/runtime-main.db0022d8.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.3ed9cb09.chunk.js",
+    "static/css/main.b37562ea.chunk.css",
+    "static/js/main.53e804f2.chunk.js"
   ]
 }
